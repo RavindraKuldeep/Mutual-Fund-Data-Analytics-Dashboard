@@ -1,0 +1,14 @@
+# Power BI source file kept private
+Power_BI/*.pbix
+
+# Archive / temporary files
+**/Archive/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
