@@ -322,7 +322,7 @@ The final dashboard helps compare mutual fund categories, AMCs, and schemes usin
 
 **Ravindra Deo Kuldeep**  
 Aspiring Data Analyst  
-GitHub: @ravindra.kuldeep0  
+GitHub: @RavindraKuldeep
 Email: ravindra.kuldeep0@gmail.com
 
 ---
