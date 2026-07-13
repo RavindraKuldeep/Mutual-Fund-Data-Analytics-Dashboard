@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="Logo%2C%20Image/Side%20wallpaper.png"
+       alt="Mutual Fund Data Analytics Dashboard"
+       width="100%">
+</p>
+
+<h1 align="center">Mutual Fund Data Analytics Dashboard</h1>
+
+<p align="center">
+  End-to-End Mutual Fund Performance Analysis using Python, Excel Power Query, SQL Server and Power BI
+</p>
+
+
+
+
 # Mutual Fund Data Analytics Dashboard
 
 ## Project Overview
